@@ -4,7 +4,7 @@
 
 - This project uses Express.js, MySQL, JWT to create RESTFUL APIs.
 - This is my first backend project using Node.js.
-- I have learned the efficiency of using Express.js to create RESTFUL APIs.
+- I have learned the efficiency of using Express.js to create RESTFUL APIs by working on this project.
 - This project uses MVC architecture and you can simply perform CRUD operations using the API tester of your choice. I recommend POSTMAN API TESTER. Please follow the usage below.
 
 ## Installation
